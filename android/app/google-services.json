@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282671258566",
+    "project_id": "xoxcasestudy",
+    "storage_bucket": "xoxcasestudy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282671258566:android:83dd3ed0b85b6a187370c7",
+        "android_client_info": {
+          "package_name": "com.example.xox_case_study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWi_NRaKzP6TwIFHTFQM90Z-xQhy2bbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
