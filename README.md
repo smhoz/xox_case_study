@@ -1,16 +1,10 @@
 # xox_case_study
 
-A new Flutter project.
+- State Management: Getx
+- MVC Pattern
+- Firebase(FireStore(Snapshot), Authentication(Anonymous))
+  
+https://github.com/user-attachments/assets/14106177-2736-4bcc-879c-a30446e8d9bd
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Resmi 2024-08-16 01 44 35](https://github.com/user-attachments/assets/8c0030b6-b0c2-44cc-9b0e-a4a644ecd89d)
+![Ekran Resmi 2024-08-16 01 44 44](https://github.com/user-attachments/assets/2f50e268-c86a-4dd5-804b-b0578290be8b)
